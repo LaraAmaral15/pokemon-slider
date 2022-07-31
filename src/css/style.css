@@ -33,7 +33,6 @@ body {
 }
 
 .lista-pokemons {
-
   width: 310px;
   height: 520px;
   position: relative;
@@ -56,11 +55,10 @@ body {
 
 .btn-seta:hover {
   background-color: #dddddd;
-box-shadow: 0px 8px 62px 0px rgba(255, 245, 54, 1);
+  box-shadow: 0px 8px 62px 0px rgba(255, 245, 54, 1);
 }
 
 .cartao {
-  background-color: red;
   opacity: 0;
   height: 100%;
 
